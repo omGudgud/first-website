@@ -1,0 +1,156 @@
+.subject
+{
+    clear: both;
+    background-color: limegreen;
+    justify-content: left;
+    height: auto;
+    padding: 20px;
+}
+.butt
+{
+    border: 0px;
+    height: 50px;
+    width: 100px;
+    margin-left:-20px;
+    margin-right: 20px;
+    margin-top:40px;
+    font-size: 40px;
+    font-weight:900;
+    color:beige;
+    background-color: limegreen;
+    vertical-align: middle;
+    
+}
+.home
+{
+    border: 0px;
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 80px;
+    margin-top:40px;
+    font-size: 40px;
+    font-weight:500;
+    color:beige;
+    background-color: limegreen;
+    vertical-align: middle;
+    
+}
+.menu
+{
+    border: 0px;
+    height: 50px;
+    width: 100px;
+    margin-top:40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    font-weight:100;
+    color:beige;
+    background-color: limegreen;
+    vertical-align: middle;
+    
+}
+.logo
+{
+    height: 120px;
+    width: 120px;
+    vertical-align: middle;
+}
+.ham{
+    height: 120px;
+    width: 120px;
+    vertical-align: middle;
+    margin-right: 20px;
+    margin-left:40px;
+}
+.jugad{
+    border: 0px;
+    height: 50px;
+    width: 600px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    font-weight:100;
+    color:beige;
+    background-color: limegreen;
+    vertical-align: middle;
+}
+.text
+{
+    font-weight: 100;
+}
+.firstline
+{
+    display: flex;
+}
+.bigF
+{
+    font-weight: 900;
+    color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+    width:900px ;
+    font-size: 75px;
+}
+.para
+{
+    font-weight: 100;
+    color:beige;
+    font-family: Arial, Helvetica, sans-serif;
+    width:900px ;
+    font-size: 35px;
+}
+.strt
+{
+    font-weight: 900;
+    color:limegreen;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:55px;
+}
+.start
+{
+    border: 0px;
+    width: 400px;
+    padding: 0px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.content
+{
+    display: flex;
+    justify-content: left;
+}
+.photu
+{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.menu:hover
+{
+    border: 0px;
+    height: 50px;
+    width: 100px;
+    margin-top:40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
+    font-weight:100;
+    color:beige;
+    background-color: darkgreen;
+    vertical-align: middle;
+    
+}
+.home:hover
+{
+    border: 0px;
+    height: 50px;
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 80px;
+    margin-top:40px;
+    font-size: 40px;
+    font-weight:500;
+    color:beige;
+    background-color: darkgreen;
+    vertical-align: middle;
+}
